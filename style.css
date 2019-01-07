@@ -1,0 +1,297 @@
+.red{
+	background-color: #51F0DB;
+}
+.blue{
+	background-color:#0400A6;
+}
+.green{
+
+	background-color: green;
+}
+
+#conteneur1{
+	padding-right: 20px;
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-bottom: 20px;
+	display: flex;
+	justify-content: space-between;
+	
+}
+
+
+
+
+
+.carré1{
+	width: 150px;
+    height: 150px;
+ 
+    border-width: 2px;
+	border-style: solid;
+	border-color: black;
+	
+		
+
+}
+
+
+
+
+.rond1{
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	border-width: 2px;
+	border-style: solid;
+	border-color: black;
+}
+.rond2{
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	border-width: 2px;
+	border-style: solid;
+	border-color: black;
+}
+.rond3{
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	border-width: 2px;
+	border-style: solid;
+	border-color: black;
+}
+.rond4{
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	border-width: 2px;
+	border-style: solid;
+	border-color: black;
+}
+
+#conteneur2{
+	padding-right: 20px;
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-bottom: 20px;
+
+	display: flex;
+	justify-content: space-between;
+}
+
+.rond5{
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	border-width: 2px;
+	border-style: solid;
+	border-color: black;
+}
+.carré2{
+	width: 150px;
+	height: 150px;
+	
+	
+	border-width: 2px;
+	border-style: solid;
+	border-color: black;
+}
+.rond6{
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	border-width: 2px;
+	border-style: solid;
+	border-color: black;
+}
+.rond7{
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	border-width: 2px;
+	border-style: solid;
+	border-color: black;
+}
+.rond8{
+	width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	border-width: 2px;
+	border-style: solid;
+	border-color: black;
+}
+
+#conteneur3{
+	padding-right: 20px;
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-bottom: 20px;
+	display: flex;
+	justify-content: space-between;
+
+
+
+}
+.rond9{
+    width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	border-width: 2px;
+	border-style: solid;
+	border-color: black;
+
+}
+.rond10{
+    width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	border-width: 2px;
+	border-style: solid;
+	border-color: black;
+
+}
+.losange1{
+	width: 150px;
+	height: 150px;
+	
+	-ms-transform: rotate(45deg); /* Internet Explorer */
+	 -moz-transform: rotate(45deg); /* Firefox */
+	 -o-transform: rotate(45deg); /* Opera */
+	
+	border-width: 2px;
+	border-style: solid;
+	border-color: black;
+}
+.rond11{
+    width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	border-width: 2px;
+	border-style: solid;
+	border-color: black;
+
+}
+.rond12{
+    width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	border-width: 2px;
+	border-style: solid;
+	border-color: black;
+
+}
+#conteneur4{
+	padding-right: 20px;
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-bottom: 20px;
+	display: flex;
+	justify-content: space-between;
+
+
+
+}
+.rond13{
+    width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	border-width: 2px;
+	border-style: solid;
+	border-color: black;
+
+}
+.rond14{
+    width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	border-width: 2px;
+	border-style: solid;
+	border-color: black;
+
+}
+.rond15{
+    width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	border-width: 2px;
+	border-style: solid;
+	border-color: black;
+
+}
+.carré3{
+	width: 150px;
+	height: 150px;
+	
+	
+	border-width: 2px;
+	border-style: solid;
+	border-color: black;
+}
+.rond16{
+    width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	border-width: 2px;
+	border-style: solid;
+	border-color: black;
+
+}
+#conteneur5{
+
+	padding-right: 20px;
+	padding-top: 20px;
+	padding-left: 20px;
+	padding-bottom: 20px;
+	display: flex;
+	justify-content: space-between;
+
+}
+.rond17{
+    width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	border-width: 2px;
+	border-style: solid;
+	border-color: black;
+
+}
+.rond18{
+    width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	border-width: 2px;
+	border-style: solid;
+	border-color: black;
+
+}
+.rond19{
+    width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	border-width: 2px;
+	border-style: solid;
+	border-color: black;
+
+}
+.rond20{
+    width: 150px;
+	height: 150px;
+	border-radius: 50%;
+	border-width: 2px;
+	border-style: solid;
+	border-color: black;
+
+}
+.carré4{
+	width: 150px;
+	height: 150px;
+	
+	
+	border-width: 2px;
+	border-style: solid;
+	border-color: black;
+}
+
+
